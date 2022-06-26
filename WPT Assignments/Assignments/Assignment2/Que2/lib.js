@@ -1,1 +1,0 @@
-exports.f1 =function(c){ return --c; }
